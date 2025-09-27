@@ -65,5 +65,5 @@ npm run dev
 
 --- 
 
-Feito por Bruno Camargo 🚀
+Feito por Bruno Camargo 🚀  
 📧 brunocamargo.dev@gmail.com
