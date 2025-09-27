@@ -60,6 +60,10 @@ npm run dev
 ---
 
 ## 📷 Demonstração
+![Imagem - exemplo](./img/Lista.jpg)
 
+
+--- 
 
 Feito por Bruno Camargo 🚀
+📧 brunocamargo.dev@gmail.com
